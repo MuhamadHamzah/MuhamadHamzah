@@ -20,14 +20,6 @@
 
 ---
 
-## 📊 Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ken123&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ken123&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🌐 Connect
 <p align="center">
   <a href="muhamadhamzah.za@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
