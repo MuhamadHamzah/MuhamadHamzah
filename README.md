@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;🎯++AI++%2B++Blockchain++Innovator" alt="Dynamic Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👨‍💻+Muhamad+Hamzah;🚀+Full-Stack+Web3+Developer;🔐+Ethical+Hacker+%26+Security+Expert;🎯+AI+%2B+Blockchain+Innovator" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
@@ -56,26 +56,12 @@ const hamzah = {
 </p>
 
 ### **Security & Tools**
-<table align="center">
-<tr>
-  <td align="center" width="96">
-    <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
-    <br><strong>Kali Linux</strong>
-  </td>
-  <td align="center" width="96">
-    <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" />
-    <br><strong>Metasploit</strong>
-  </td>
-  <td align="center" width="96">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wireshark_icon.svg/512px-Wireshark_icon.svg.png" width="48" height="48" alt="Wireshark" />
-    <br><strong>Wireshark</strong>
-  </td>
-  <td align="center" width="96">
-    <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" width="48" height="48" alt="Burp Suite" />
-    <br><strong>Burp Suite</strong>
-  </td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+</p>
 
 </div>
 
