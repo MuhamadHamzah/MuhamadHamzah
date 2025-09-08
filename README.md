@@ -88,7 +88,7 @@ const hamzah = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)]([https://github.com/yourusername/project1](https://github.com/MuhamadHamzah/Smart-IoT-Early-Warning-System))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/MuhamadHamzah/Smart-IoT-Early-Warning-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project2)
 
 </div>
