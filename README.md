@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Hamzah+👨‍💻;Software+Engineer+%7C+Web3+Builder;AI+Explorer+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hey!+I'm+Muhamad+Hamzah+👨‍💻;Software+Engineer+%7C+Web3+Builder;Ethical+Hacker+%7C+cyber+Security" alt="Muhamad+Hamzah" />
 </div>
 
 ---
@@ -30,8 +30,7 @@
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/ken123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ken@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="muhamadhamzah.za@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
