@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👨‍💻+Muhamad+Hamzah;🚀+Full-Stack+Web3+Developer;🔐+Ethical+Hacker+%26+Security+Expert;🎯+AI+%2B+Blockchain+Innovator" alt="Dynamic Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;🎯++AI++%2B++Blockchain++Innovator" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
