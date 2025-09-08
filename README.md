@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;" alt="Dynamic Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert&repeat=false" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@ const hamzah = {
 ---
 
 <div align="center">
-  <h3>
+  <h3>    
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="⚡" width="25" height="25" />
     "In code we trust, in blockchain we build, in security we protect"
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="⚡" width="25" height="25" />
