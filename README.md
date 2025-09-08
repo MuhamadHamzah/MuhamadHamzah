@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuahamadHamzah&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhamadHamzah&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
