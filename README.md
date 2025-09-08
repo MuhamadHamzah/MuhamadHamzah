@@ -70,16 +70,16 @@ const hamzah = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhamadHamzah&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadHamzah&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=yourusername&theme=radical&hide_border=true&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=MuhamadHamzah&theme=radical&hide_border=true&background=0d1117&stroke=00f5d4&ring=00f5d4&fire=00f5d4&currStreakLabel=00f5d4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadHamzah&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
