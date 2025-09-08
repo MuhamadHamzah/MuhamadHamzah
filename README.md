@@ -56,12 +56,26 @@ const hamzah = {
 </p>
 
 ### **Security & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" title="Kali Linux - Penetration Testing OS" />
-  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" title="Metasploit Framework" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" title="Wireshark Network Analyzer" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" title="Burp Suite Web Security Testing" />
-</p>
+<table align="center">
+<tr>
+  <td align="center" width="96">
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="48" height="48" alt="Kali Linux" />
+    <br><strong>Kali Linux</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" width="48" height="48" alt="Metasploit" />
+    <br><strong>Metasploit</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wireshark_icon.svg/512px-Wireshark_icon.svg.png" width="48" height="48" alt="Wireshark" />
+    <br><strong>Wireshark</strong>
+  </td>
+  <td align="center" width="96">
+    <img src="https://portswigger.net/content/images/logos/burp-suite-professional.svg" width="48" height="48" alt="Burp Suite" />
+    <br><strong>Burp Suite</strong>
+  </td>
+</tr>
+</table>
 
 </div>
 
