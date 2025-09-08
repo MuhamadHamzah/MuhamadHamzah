@@ -1,11 +1,11 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👨‍💻+Muhamad+Hamzah;🚀+Full-Stack+Web3+Developer;🔐+Ethical+Hacker+%26+Security+Expert;🎯+AI+%2B+Blockchain+Innovator" alt="Dynamic Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuahamadHamzah&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
@@ -18,7 +18,7 @@
 const hamzah = {
   name: "Muhamad Hamzah",
   role: "Full-Stack Web3 Developer",
-  specialties: ["Blockchain", "Cybersecurity", "AI/ML"],
+  specialties: ["Blockchain", "Cybersecurity"],
   currentFocus: "Building decentralized apps on IC & Ethereum",
   passion: "Turning complex problems into elegant solutions",
   motto: "Code with purpose, hack ethically, innovate relentlessly"
@@ -88,8 +88,8 @@ const hamzah = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project2)
 
 </div>
 
