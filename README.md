@@ -1,7 +1,7 @@
 # <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;" alt="Dynamic Profile Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert;🎯++AI++%2B++Blockchain++Innovator" alt="Dynamic Profile Header" />
 </div>
 
 <div align="center">
@@ -57,10 +57,10 @@ const hamzah = {
 
 ### **Security & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" title="Kali Linux - Penetration Testing OS" />
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" title="Metasploit Framework" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" title="Wireshark Network Analyzer" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" title="Burp Suite Web Security Testing" />
 </p>
 
 </div>
