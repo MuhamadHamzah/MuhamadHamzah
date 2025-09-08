@@ -110,7 +110,7 @@ const hamzah = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=00f5d4&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=MuhamadHamzah&color=00f5d4&style=for-the-badge&label=Profile+Views" />
 </div>
 
 <div align="center">
