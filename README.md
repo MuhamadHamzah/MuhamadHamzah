@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨‍💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert&repeat=false" alt="Dynamic Profile Header" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhamadHamzah&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
-</div>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist" width="35" height="35" /> About Me
@@ -80,17 +76,6 @@ const hamzah = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadHamzah&bg_color=0d1117&color=00f5d4&line=00f5d4&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=Smart-IoT-Early-Warning-System&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/MuhamadHamzah/Smart-IoT-Early-Warning-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MuhamadHamzah&repo=project2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9)](https://github.com/yourusername/project2)
-
 </div>
 
 ---
