@@ -35,7 +35,7 @@ const hamzah = {
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,python,javascript,typescript,react,nextjs,nodejs,qt&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,python,javascript,typescript,react,nextjs,nodejs&theme=dark" />
 </p>
 
 ### **Blockchain & Web3**
