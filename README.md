@@ -1,4 +1,4 @@
-# <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
+# <div align="center">Welcome to My Digital Universe</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=900&height=150&lines=👨💻++Muhamad++Hamzah;🚀++Full-Stack++Web3++Developer;🔐++Ethical++Hacker++%26++Security++Expert&repeat=false" alt="Dynamic Profile Header" />
@@ -41,11 +41,9 @@ const hamzah = {
 ### **Blockchain & Web3**
 <p>
   <img src="https://img.shields.io/badge/Stellar-08B5E5?style=for-the-badge&logo=stellar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Soroban-7928CA?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=solidity&theme=dark" />
-  <img src="https://img.shields.io/badge/Internet_Computer-29ABE2?style=for-the-badge&logo=internet-computer&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Internet_Computer-29ABE2?style=for-the-badge&logo=internet-computer&logoColor=white" />
 </p>
 
 ### **Databases & DevOps**
