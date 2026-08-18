@@ -20,13 +20,6 @@ const hamzah = {
   motto: "Code with purpose, hack ethically, innovate relentlessly"
 };
 ```
-
-🎯 **Current Projects:**
-- 🔗 Building next-gen DeFi protocols on Internet Computer
-- 🛡️ Developing security auditing tools for smart contracts  
-- 🤖 Integrating AI agents with blockchain infrastructure
-- 📱 Creating user-friendly Web3 interfaces
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="35" height="35" /> Tech Arsenal
